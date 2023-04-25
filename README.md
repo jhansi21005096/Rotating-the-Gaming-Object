@@ -38,6 +38,8 @@ Stop
 
 ## Program:
 ```
+DEVELOPED BY : K.Jhansi
+REFERENCE NUMBER : 212221230045
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -58,6 +60,6 @@ public class program1 : MonoBehaviour
 }
 ```
 ## Output:
-![output]()
+![output](https://github.com/jhansi21005096/Rotating-the-Gaming-Object/blob/main/out.a.png)
 ## Result:
 Thus a 3D application for rotating the gaming objects in unity is developed sucessfully.
